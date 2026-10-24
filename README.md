@@ -13,6 +13,12 @@ Install the official app from [`Zad.apk`](Zad.apk) (version 1.2, Android 7.0 or 
 
 For Arabic audio, make sure an Arabic voice is installed in Android's text-to-speech settings (Settings → System → Text-to-speech → Google Speech Services → Install voice data → Arabic).
 
+## iPhone
+
+1. Open **https://mfarmani85.github.io/Zad/** in **Safari**.
+2. Tap the **Share** button, then **Add to Home Screen**, then **Add**.
+3. Open Zad from your home screen. After the first launch it works offline.
+
 ## Is my copy official?
 
 The official Zad app is signed by Mohammad Farmani. A copy that has been modified, re-signed or rebranded by anyone else **will not run**: it shows "Unofficial copy" and closes.
@@ -27,4 +33,4 @@ The official Zad app is signed by Mohammad Farmani. A copy that has been modifie
 
 Zad, including its source code, APK, learning content, name, icon and design, is the exclusive property of **Mohammad Farmani**.
 
-This is **not** open-source software, and its source code is private. You may install the official APK for personal use, but you may not copy, modify, redistribute, rebrand, re-sign or publish Zad or any part of it without written permission from Mohammad Farmani. Forking this repository does not grant any rights. See [LICENSE](LICENSE) for the full terms.
+This is **not** open-source software, and its source code is private. The files here are compiled builds. You may install the official APK for personal use, but you may not copy, modify, redistribute, rebrand, re-sign or publish Zad or any part of it without written permission from Mohammad Farmani. Forking this repository does not grant any rights. See [LICENSE](LICENSE) for the full terms.
